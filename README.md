@@ -13,7 +13,7 @@ Feel free to check out my works and contributions:
 ✉ Interested to work with me? Leave a [message](https://www.linkedin.com/in/mary-mae-calamba-944836246/ "Linkedin/MaryCalamba") here. 
 
 
-##Code Commitment
+## Code Commitment
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaryM-C&theme=vue&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
