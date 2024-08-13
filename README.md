@@ -2,15 +2,16 @@
 
 
 ## ✨ About me 
-I am a detailed-oriented student with a strong interest in backend development. I love solving puzzles and sometimes I find myself losing track of time when I code. 
+A recent computer science graduate with a keen interest in data analytics. During my studies and internship as a backend developer, I gained foundation skills in data management and database design, working with data organization and basic database structures. These experiences have sparked my passion for data analytics, and I'm eager to leverage my technical skills to uncover valuable insights and drive data-driven decisions.  I’m excited to contribute to a team where I can grow and apply my analytical mindset and technical knowledge.
 
 ## 📚 Projects 
 Feel free to check out my works and contributions:
- * [Simple Digital Menu System](https://github.com/MaryM-C/Food-Cafe "Food-Cafe")
+ * [FiSDA: Android application fish species identification using CNN](https://github.com/MaryM-C/FiSDA/releases/tag/v1.0.0)
 
+## Kaggle
+I'm actively honing my data analytics through hands-on projects on [Kaggle](https://www.kaggle.com/marycal). My Kaggle profile features a variety of notebooks, and datasets that I've worked on, demonstrating my ability to apply data science techniques in real-world scenarios. Feel free to check out my work and see my approach to solving data challenges!
 
-
-✉ Interested to work with me? Leave a [message](https://www.linkedin.com/in/mary-mae-calamba-944836246/ "Linkedin/MaryCalamba") here. 
+✉ Interested to work with me? Leave a [message](https://www.linkedin.com/in/marym-c) here. 
 
 
 ## Code Commitment
